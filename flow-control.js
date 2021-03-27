@@ -17,7 +17,7 @@ if (13<=19) {
   return "You are a teenager!";
 } else if (0<=12) {
   return "You are a kid";
-}else{
+} else {
   return "You are a grownup";
 }
 }
